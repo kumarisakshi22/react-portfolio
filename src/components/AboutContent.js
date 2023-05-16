@@ -11,7 +11,9 @@ const AboutContent = () => {
             <div className="left"><h1>Who I am
             </h1>
                 <p>Hi! I am KUMARI SAKSHI ,A react front-end developer.An Undergrade student at NIET,GREATER NOIDA with CSE in data science Branch,
-                This is my responsive portfolio website</p>
+                This is my responsive portfolio website.<br/><br/>
+                Skills: Python , JavaScript, Reactjs, Html, Css, machine learning.
+                </p>
                 
                 <Link to="/contact">
                     <button className="btn">Contact</button></Link></div>
