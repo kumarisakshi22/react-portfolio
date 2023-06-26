@@ -13,7 +13,7 @@ const Heroimage = () => {
             </div>
             <div className="content">
                 <div className="pic">
-                    <img src="https://media.licdn.com/dms/image/C4E03AQEAiTqPsgi46Q/profile-displayphoto-shrink_400_400/0/1658498999410?e=1688601600&v=beta&t=VVtE4bgqLveVrjuZ9PK0bn6JIZ12kgj1M2xw-E2gN0E" alt="mypic" /></div>
+                    <img src="https://media.licdn.com/dms/image/D4D03AQF2pUI7jYIlxQ/profile-displayphoto-shrink_400_400/0/1685249179888?e=1693440000&v=beta&t=ov_SjCc8KGsdVtTh9mTMkxPDxq-i0l0ZygyCWyJQ2Xw" alt="mypic" /></div>
                 <p>KUMARI SAKSHI</p>
                 <h1>React Developer</h1>
                 <div className="page">
