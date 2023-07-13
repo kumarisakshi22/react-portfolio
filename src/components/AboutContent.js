@@ -10,8 +10,7 @@ const AboutContent = () => {
         <div className="about">
             <div className="left"><h1>Who I am
             </h1>
-                <p>Hi! I am KUMARI SAKSHI ,A react front-end developer.An Undergrade student at NIET,GREATER NOIDA with CSE in data science Branch,
-                This is my responsive portfolio website.<br/><br/>
+                <p>Hi! I am KUMARI SAKSHI ,Currently pursuing BTech from Noida Institute of Engineering and Technology Greater Noida in CSE with specialisation in Data Science.<br/><br/>
                 Skills: Python , JavaScript, Reactjs, Html, Css, machine learning.
                 </p>
                 
