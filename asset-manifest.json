@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kumarisakshi22/Final-portfolio.git/static/css/main.1eefcd0a.css",
+    "main.js": "/kumarisakshi22/Final-portfolio.git/static/js/main.e937f2a9.js",
+    "index.html": "/kumarisakshi22/Final-portfolio.git/index.html",
+    "main.1eefcd0a.css.map": "/kumarisakshi22/Final-portfolio.git/static/css/main.1eefcd0a.css.map",
+    "main.e937f2a9.js.map": "/kumarisakshi22/Final-portfolio.git/static/js/main.e937f2a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eefcd0a.css",
+    "static/js/main.e937f2a9.js"
+  ]
+}
